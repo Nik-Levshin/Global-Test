@@ -1,2 +1,3 @@
 # Global-Test
  Group dynamics project
+The software product "Global Test" is a completely independent development of the company. The product has not been previously developed. It is an independent software product. The application will provide an opportunity to take surveys on programming knowledge. The program will have a clear user-friendly GUI. The application will be in one file and will not require installation or recompilation. This application can be used by both the system administrator and a regular user. The product must run on the Windows OS family: Windows Vista (Windows NT 6.0), Windows 7 (Windows NT 6.1), Windows 8 (Windows NT 6.2), Windows 10 (Windows NT 6.3) on x86 and x64 architectures.
